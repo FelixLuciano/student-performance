@@ -62,8 +62,8 @@ The items to be evaluated in the project are:
 5. `FILT` - Perform phase 2: adequate data filtering and repeating the
    experiment;
 
-> [!NOTE] No specific performance will be required, this is not a performance
-> competition.
+> [!NOTE]
+> No specific performance will be required, this is not a performance competition.
 
 ### Grading
 
